@@ -1,0 +1,158 @@
+ img {
+    width:50%;
+    padding:1%;
+  }
+  nav {
+    width: 73%;
+    padding: 1%;
+  }
+  body {
+    font-family: "poppins";
+    margin:0;
+  }
+  #aboutMe { 
+  margin: 1%;
+  }
+  #caseStudies {
+    margin: 1%;
+  }
+  button {
+    font-family: "poppins";
+    color: #ffffff;
+    background-color: rgb(169, 9, 69);
+    margin: 0%;
+    border: 0px;
+    border-radius: 5%;
+    height: 50px;
+    width: auto;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  #contactMe {
+    margin-right: 20px;
+  }
+  .right{
+    margin-top: -50px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+  }
+  h1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  #dreamingZebra {
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+      width:80%;
+  }
+  /* .container {
+    display:grid;
+    column-count: 3;
+    grid-template-columns: auto auto auto;
+    padding:10px;
+  }
+  .row {
+    display: grid;
+  } */
+  h3 {
+    display: flex;
+    justify-content: left;
+    align-items: left; 
+    margin-left:100px
+  }
+  h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+  }
+  p {
+    display: flex;
+    justify-content: left;
+    align-items: left; 
+    margin-left:100px
+  }
+  #graph1, #graph2, #graph3 {
+    width:25%;  
+    display:inline-flexbox;
+    margin-left:60px;
+    margin-right:auto;
+  }
+  #interviewee1, #interviewee2, #interviewee3 {
+    width: 30%;
+    display:inline-block;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-left: 10%;
+  }
+  li {
+    margin-left:100px;
+  }
+  #diagram {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #persona {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #heuristic {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+  }
+  #cardsortingold {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #cardsortingnew {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #sitemap {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #tile, #guide {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #lofihomepage, #lofineedsupplies, #lofimobile {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+  #hifiweb, #hifiiteration {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+  }
+/* .prototype {
+    display: inline-flex;
+    justify-content: left;
+    align-items: left;
+    padding: 10%;
+    width: 25%;
+    height: 25px;
+} */
+.clickablePrototypes {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
